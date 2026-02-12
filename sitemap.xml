@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://woodlogs.in/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://woodlogs.in/about.html</loc>
+  </url>
+
+  <url>
+    <loc>https://woodlogs.in/contact.html</loc>
+  </url>
+
+  <url>
+    <loc>https://woodlogs.in/focus-areas.html</loc>
+  </url>
+
+  <url>
+    <loc>https://woodlogs.in/gallery.html</loc>
+  </url>
+
+  <url>
+    <loc>https://woodlogs.in/programs.html</loc>
+  </url>
+
+  <url>
+    <loc>https://woodlogs.in/team.html</loc>
+  </url>
+
+</urlset>
